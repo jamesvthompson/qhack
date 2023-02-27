@@ -27,6 +27,9 @@ In the top right corner of the user interface, you will see a "New Job" button. 
 
 At the top of the screen select the interactive tab at the top of the jobs page.
 
+<img width="1263" alt="delete job " src="https://user-images.githubusercontent.com/109220448/221570941-8bedee09-80d3-44b8-a6a3-b780bdaf06e1.png">
+
+
 ## Step 6: Select Your Project
 
 On the jobs page, select your project from the drop-down list. 
