@@ -22,7 +22,12 @@ In the top right corner of the user interface, you will see a "New Job" button. 
 
 <img width="1498" alt="1 Screen Shot 2023-02-22 at 1 55 52 PM" src="https://user-images.githubusercontent.com/109220448/220746225-2e26ea01-7d3f-4a60-b653-15600c5c8634.png">
 
-## Step 5: Select Your Project
+
+## Step 5: Select Jobe Type
+
+At the top of the screen select the interactive tab at the top of the jobs page.
+
+## Step 6: Select Your Project
 
 On the jobs page, select your project from the drop-down list. 
 
@@ -32,25 +37,25 @@ You should only have 1 available project.
 
 <img width="879" alt="Screen Shot 2023-02-22 at 1 56 28 PM" src="https://user-images.githubusercontent.com/109220448/220733513-6d25b790-282c-4991-a969-3b32e73ceba9.png">
 
-## Step 6: Select the "qhack-quickstart" Template
+## Step 7: Select the "qhack-quickstart" Template
 
 Once you have selected your project, you will need to select the "qhack-quickstart" template on the left side of the screen.
 
 <img width="1351" alt="1 Screen Shot 2023-02-22 at 1 56 40 PM" src="https://user-images.githubusercontent.com/109220448/220746393-4aa14fae-c263-4fab-a76d-e5b1b479236f.png">
 
-## Step 7: Submit the Job
+## Step 8: Submit the Job
 
 After you have selected the template, you can click on the "Submit" button in the lower right corner of the screen to submit the job.
 
 <img width="1470" alt="1 Screen Shot 2023-02-22 at 1 56 59 PM" src="https://user-images.githubusercontent.com/109220448/220746435-766e1459-5d82-4c3b-92c4-6fc1e047b54f.png">
 
-## Step 8: Connect to Your Jupyter Notebook
+## Step 9: Connect to Your Jupyter Notebook
 
 Once the job has been submitted and the status is "running," you can either right-click on the job and connect or click on the job and then click on "Connect" in the top right of the page. This will allow you to connect to your Jupyter notebook on an A100 GPU.
 
 <img width="1505" alt="1 Screen Shot 2023-02-22 at 1 59 07 PM" src="https://user-images.githubusercontent.com/109220448/220746496-b1d6eb68-6fb4-4d2d-a0be-89c9067aa190.png">
 
-## Step 9: Install Pennylane Lightning
+## Step 10: Install Pennylane Lightning
 
 Each instance will come with the scipy jupyterlab set up. However, if you would like to install Pennylane lightning, you can follow the steps below:
 
